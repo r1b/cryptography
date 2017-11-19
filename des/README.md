@@ -10,6 +10,7 @@ DES and 3DES implementations.
 * [Exhaustive Cryptanalysis of the NBS Data Encryption Standard](https://www-ee.stanford.edu/~hellman/publications/27.pdf)
 * [OpenSSL DES Routines](https://github.com/openssl/openssl/tree/master/crypto/des)
 * [OpenSSL DES Headers](https://github.com/openssl/openssl/blob/master/include/openssl/des.h)
+* [Data Encryption Standard (DES): by Christof Paar](https://www.youtube.com/watch?v=kPBJIhpcZgE)
 
 ## Legal
 
