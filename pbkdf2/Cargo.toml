@@ -1,0 +1,6 @@
+[package]
+name = "pbkdf2"
+version = "0.1.0"
+authors = ["Robert C Jensen <rob@computerlab.io>"]
+
+[dependencies]
